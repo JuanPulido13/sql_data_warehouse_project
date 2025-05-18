@@ -36,3 +36,9 @@ The ETL (Extract, Transform, Load) pipeline is central to this project:
 🖥️ Reporting: Data is exposed to reporting tools like Power BI or SSRS. Sample SQL queries, views, or stored procedures are included to support dashboard and report creation.
 
 🏆 KPIs & Dashboards: Example metrics and dashboards are provided (see the /reports folder, if available) to showcase the value of the data warehouse.
+
+
+# Data Architecture
+
+![data_architecture](https://github.com/user-attachments/assets/dce7932f-2890-4f14-a8c6-fee255a57410)
+
