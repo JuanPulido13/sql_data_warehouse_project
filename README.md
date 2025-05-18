@@ -1,2 +1,2 @@
-# sql_data_warehouse_project
-Buiding a modern data warehouse witj SQL server, including ETL processes, data modelling and analytics.
+# Data Warehouse and Analytics Project
+Welcome to the SQL Data Warehouse Project! This repository demonstrates the construction of a modern data warehouse using SQL Server, featuring a multi-layer architecture with bronze, silver, and gold layers to ensure robust data quality and transformation. The project guides you through efficient ETL processes, advanced data modeling, and the development of specialized data marts for targeted analytics. Discover how raw data is ingested, cleansed, and transformed into valuable insights, all within a scalable, well-structured SQL environment.
